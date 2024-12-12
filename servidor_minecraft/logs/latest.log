@@ -267,3 +267,7 @@
 [18:14:10] [Worker-Main-2/INFO]: Preparing spawn area: 97%
 [18:14:11] [Server thread/INFO]: Time elapsed: 109436 ms
 [18:14:11] [Server thread/INFO]: Done (124.007s)! For help, type "help"
+[18:34:42] [Server thread/INFO]: Stopping server
+[18:34:42] [Server thread/INFO]: Saving players
+[18:34:42] [Server thread/INFO]: Saving worlds
+[18:34:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
